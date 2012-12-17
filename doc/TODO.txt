@@ -1,0 +1,10 @@
+■プリミティブな型で構成されるオブジェクトをMarshalize出来る
+■プリミティブな型で構成されるオブジェクトをUnmarshalize出来る
+□値がnullとなるメンバをMarshalize時に出力しない
+□値がnullとなるメンバをMarshalize時に出力する方法を指定する
+
+□プリミティブな型で構成されるMap, Listを含むクラスをMarshalizeできる
+□プリミティブな型で構成されるMap, Listを含むクラスをUnmarshalizeできる
+
+□Userをメンバに持つクラスをMarshalize/Unmarshalize出来る
+□UserをMap/Listの要素に持つクラスをMarshalize/Unmarshalize出来る
