@@ -1,6 +1,8 @@
 ■プリミティブな型で構成されるオブジェクトをMarshalize出来る
 ■プリミティブな型で構成されるオブジェクトをUnmarshalize出来る
 □値がnullとなるメンバをMarshalize時に出力しない
+　・デフォルトではnullとなる値は出力されない
+　・nullを空要素として表現する
 □値がnullとなるメンバをMarshalize時に出力する方法を指定する
 
 □プリミティブな型で構成されるMap, Listを含むクラスをMarshalizeできる
